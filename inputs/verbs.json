@@ -1,0 +1,24 @@
+{
+    "faire": {
+        "je": "fais",
+        "tu": "fais",
+        "il": "fait",
+        "elle": "fait",
+        "on": "fait",
+        "nous": "faisons",
+        "vous": "faites",
+        "ils": "font",
+        "elles": "font"
+    },
+    "aller": {
+        "je": "vais",
+        "tu": "vas",
+        "il": "va",
+        "elle": "va",
+        "on": "va",
+        "nous": "allons",
+        "vous": "allez",
+        "ils": "vont",
+        "elles": "vont"
+    }
+}
