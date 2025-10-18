@@ -1,14 +1,25 @@
 {
-    "faire": {
-        "je": "fais",
-        "tu": "fais",
-        "il": "fait",
-        "elle": "fait",
-        "on": "fait",
-        "nous": "faisons",
-        "vous": "faites",
-        "ils": "font",
-        "elles": "font"
+    "être": {
+        "je": "suis",
+        "tu": "es",
+        "il": "est",
+        "elle": "est",
+        "on": "est",
+        "nous": "sommes",
+        "vous": "êtes",
+        "ils": "sont",
+        "elles": "sont"
+    },
+    "avoir": {
+        "je": "ai",
+        "tu": "as",
+        "il": "a",
+        "elle": "a",
+        "on": "a",
+        "nous": "avons",
+        "vous": "avez",
+        "ils": "ont",
+        "elles": "ont"
     },
     "aller": {
         "je": "vais",
@@ -20,5 +31,239 @@
         "vous": "allez",
         "ils": "vont",
         "elles": "vont"
+    },
+    "faire": {
+        "je": "fais",
+        "tu": "fais",
+        "il": "fait",
+        "elle": "fait",
+        "on": "fait",
+        "nous": "faisons",
+        "vous": "faites",
+        "ils": "font",
+        "elles": "font"
+    },
+    "dire": {
+        "je": "dis",
+        "tu": "dis",
+        "il": "dit",
+        "elle": "dit",
+        "on": "dit",
+        "nous": "disons",
+        "vous": "dites",
+        "ils": "disent",
+        "elles": "disent"
+    },
+    "pouvoir": {
+        "je": "peux",
+        "tu": "peux",
+        "il": "peut",
+        "elle": "peut",
+        "on": "peut",
+        "nous": "pouvons",
+        "vous": "pouvez",
+        "ils": "peuvent",
+        "elles": "peuvent"
+    },
+    "vouloir": {
+        "je": "veux",
+        "tu": "veux",
+        "il": "veut",
+        "elle": "veut",
+        "on": "veut",
+        "nous": "voulons",
+        "vous": "voulez",
+        "ils": "veulent",
+        "elles": "veulent"
+    },
+    "venir": {
+        "je": "viens",
+        "tu": "viens",
+        "il": "vient",
+        "elle": "vient",
+        "on": "vient",
+        "nous": "venons",
+        "vous": "venez",
+        "ils": "viennent",
+        "elles": "viennent"
+    },
+    "prendre": {
+        "je": "prends",
+        "tu": "prends",
+        "il": "prend",
+        "elle": "prend",
+        "on": "prend",
+        "nous": "prenons",
+        "vous": "prenez",
+        "ils": "prennent",
+        "elles": "prennent"
+    },
+    "mettre": {
+        "je": "mets",
+        "tu": "mets",
+        "il": "met",
+        "elle": "met",
+        "on": "met",
+        "nous": "mettons",
+        "vous": "mettez",
+        "ils": "mettent",
+        "elles": "mettent"
+    },
+    "savoir": {
+        "je": "sais",
+        "tu": "sais",
+        "il": "sait",
+        "elle": "sait",
+        "on": "sait",
+        "nous": "savons",
+        "vous": "savez",
+        "ils": "savent",
+        "elles": "savent"
+    },
+    "voir": {
+        "je": "vois",
+        "tu": "vois",
+        "il": "voit",
+        "elle": "voit",
+        "on": "voit",
+        "nous": "voyons",
+        "vous": "voyez",
+        "ils": "voient",
+        "elles": "voient"
+    },
+    "devoir": {
+        "je": "dois",
+        "tu": "dois",
+        "il": "doit",
+        "elle": "doit",
+        "on": "doit",
+        "nous": "devons",
+        "vous": "devez",
+        "ils": "doivent",
+        "elles": "doivent"
+    },
+    "croire": {
+        "je": "crois",
+        "tu": "crois",
+        "il": "croit",
+        "elle": "croit",
+        "on": "croit",
+        "nous": "croyons",
+        "vous": "croyez",
+        "ils": "croient",
+        "elles": "croient"
+    },
+    "trouver": {
+        "je": "trouve",
+        "tu": "trouves",
+        "il": "trouve",
+        "elle": "trouve",
+        "on": "trouve",
+        "nous": "trouvons",
+        "vous": "trouvez",
+        "ils": "trouvent",
+        "elles": "trouvent"
+    },
+    "donner": {
+        "je": "donne",
+        "tu": "donnes",
+        "il": "donne",
+        "elle": "donne",
+        "on": "donne",
+        "nous": "donnons",
+        "vous": "donnez",
+        "ils": "donnent",
+        "elles": "donnent"
+    },
+    "falloir": {
+        "il": "faut"
+    },
+    "parler": {
+        "je": "parle",
+        "tu": "parles",
+        "il": "parle",
+        "elle": "parle",
+        "on": "parle",
+        "nous": "parlons",
+        "vous": "parlez",
+        "ils": "parlent",
+        "elles": "parlent"
+    },
+    "aimer": {
+        "je": "aime",
+        "tu": "aimes",
+        "il": "aime",
+        "elle": "aime",
+        "on": "aime",
+        "nous": "aimons",
+        "vous": "aimez",
+        "ils": "aiment",
+        "elles": "aiment"
+    },
+    "passer": {
+        "je": "passe",
+        "tu": "passes",
+        "il": "passe",
+        "elle": "passe",
+        "on": "passe",
+        "nous": "passons",
+        "vous": "passez",
+        "ils": "passent",
+        "elles": "passent"
+    },
+    "regarder": {
+        "je": "regarde",
+        "tu": "regardes",
+        "il": "regarde",
+        "elle": "regarde",
+        "on": "regarde",
+        "nous": "regardons",
+        "vous": "regardez",
+        "ils": "regardent",
+        "elles": "regardent"
+    },
+    "demander": {
+        "je": "demande",
+        "tu": "demandes",
+        "il": "demande",
+        "elle": "demande",
+        "on": "demande",
+        "nous": "demandons",
+        "vous": "demandez",
+        "ils": "demandent",
+        "elles": "demandent"
+    },
+    "tenir": {
+        "je": "tiens",
+        "tu": "tiens",
+        "il": "tient",
+        "elle": "tient",
+        "on": "tient",
+        "nous": "tenons",
+        "vous": "tenez",
+        "ils": "tiennent",
+        "elles": "tiennent"
+    },
+    "comprendre": {
+        "je": "comprends",
+        "tu": "comprends",
+        "il": "comprend",
+        "elle": "comprend",
+        "on": "comprend",
+        "nous": "comprenons",
+        "vous": "comprenez",
+        "ils": "comprennent",
+        "elles": "comprennent"
+    },
+    "rester": {
+        "je": "reste",
+        "tu": "restes",
+        "il": "reste",
+        "elle": "reste",
+        "on": "reste",
+        "nous": "restons",
+        "vous": "restez",
+        "ils": "restent",
+        "elles": "restent"
     }
 }

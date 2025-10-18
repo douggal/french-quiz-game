@@ -1,0 +1,1717 @@
+{
+  "être": {
+    "present": {
+      "je": "suis",
+      "tu": "es",
+      "il": "est",
+      "elle": "est",
+      "on": "est",
+      "nous": "sommes",
+      "vous": "êtes",
+      "ils": "sont",
+      "elles": "sont"
+    },
+    "passe_compose": {
+      "je": "ai été",
+      "tu": "as été",
+      "il": "a été",
+      "elle": "a été",
+      "on": "a été",
+      "nous": "avons été",
+      "vous": "avez été",
+      "ils": "ont été",
+      "elles": "ont été"
+    },
+    "futur": {
+      "je": "serai",
+      "tu": "seras",
+      "il": "sera",
+      "elle": "sera",
+      "on": "sera",
+      "nous": "serons",
+      "vous": "serez",
+      "ils": "seront",
+      "elles": "seront"
+    }
+  },
+  "avoir": {
+    "present": {
+      "je": "ai",
+      "tu": "as",
+      "il": "a",
+      "elle": "a",
+      "on": "a",
+      "nous": "avons",
+      "vous": "avez",
+      "ils": "ont",
+      "elles": "ont"
+    },
+    "passe_compose": {
+      "je": "ai eu",
+      "tu": "as eu",
+      "il": "a eu",
+      "elle": "a eu",
+      "on": "a eu",
+      "nous": "avons eu",
+      "vous": "avez eu",
+      "ils": "ont eu",
+      "elles": "ont eu"
+    },
+    "futur": {
+      "je": "aurai",
+      "tu": "auras",
+      "il": "aura",
+      "elle": "aura",
+      "on": "aura",
+      "nous": "aurons",
+      "vous": "aurez",
+      "ils": "auront",
+      "elles": "auront"
+    }
+  },
+  "aller": {
+    "present": {
+      "je": "vais",
+      "tu": "vas",
+      "il": "va",
+      "elle": "va",
+      "on": "va",
+      "nous": "allons",
+      "vous": "allez",
+      "ils": "vont",
+      "elles": "vont"
+    },
+    "passe_compose": {
+      "je": "suis allé",
+      "tu": "es allé",
+      "il": "est allé",
+      "elle": "est allée",
+      "on": "est allé",
+      "nous": "sommes allés",
+      "vous": "êtes allés",
+      "ils": "sont allés",
+      "elles": "sont allées"
+    },
+    "futur": {
+      "je": "irai",
+      "tu": "iras",
+      "il": "ira",
+      "elle": "ira",
+      "on": "ira",
+      "nous": "irons",
+      "vous": "irez",
+      "ils": "iront",
+      "elles": "iront"
+    }
+  },
+  "faire": {
+    "present": {
+      "je": "fais",
+      "tu": "fais",
+      "il": "fait",
+      "elle": "fait",
+      "on": "fait",
+      "nous": "faisons",
+      "vous": "faites",
+      "ils": "font",
+      "elles": "font"
+    },
+    "passe_compose": {
+      "je": "faire_passe_compose_je",
+      "tu": "faire_passe_compose_tu",
+      "il": "faire_passe_compose_il",
+      "elle": "faire_passe_compose_elle",
+      "on": "faire_passe_compose_on",
+      "nous": "faire_passe_compose_nous",
+      "vous": "faire_passe_compose_vous",
+      "ils": "faire_passe_compose_ils",
+      "elles": "faire_passe_compose_elles"
+    },
+    "futur": {
+      "je": "faire_futur_je",
+      "tu": "faire_futur_tu",
+      "il": "faire_futur_il",
+      "elle": "faire_futur_elle",
+      "on": "faire_futur_on",
+      "nous": "faire_futur_nous",
+      "vous": "faire_futur_vous",
+      "ils": "faire_futur_ils",
+      "elles": "faire_futur_elles"
+    }
+  },
+  "dire": {
+    "present": {
+      "je": "dire_present_je",
+      "tu": "dire_present_tu",
+      "il": "dire_present_il",
+      "elle": "dire_present_elle",
+      "on": "dire_present_on",
+      "nous": "dire_present_nous",
+      "vous": "dire_present_vous",
+      "ils": "dire_present_ils",
+      "elles": "dire_present_elles"
+    },
+    "passe_compose": {
+      "je": "dire_passe_compose_je",
+      "tu": "dire_passe_compose_tu",
+      "il": "dire_passe_compose_il",
+      "elle": "dire_passe_compose_elle",
+      "on": "dire_passe_compose_on",
+      "nous": "dire_passe_compose_nous",
+      "vous": "dire_passe_compose_vous",
+      "ils": "dire_passe_compose_ils",
+      "elles": "dire_passe_compose_elles"
+    },
+    "futur": {
+      "je": "dire_futur_je",
+      "tu": "dire_futur_tu",
+      "il": "dire_futur_il",
+      "elle": "dire_futur_elle",
+      "on": "dire_futur_on",
+      "nous": "dire_futur_nous",
+      "vous": "dire_futur_vous",
+      "ils": "dire_futur_ils",
+      "elles": "dire_futur_elles"
+    }
+  },
+  "pouvoir": {
+    "present": {
+      "je": "pouvoir_present_je",
+      "tu": "pouvoir_present_tu",
+      "il": "pouvoir_present_il",
+      "elle": "pouvoir_present_elle",
+      "on": "pouvoir_present_on",
+      "nous": "pouvoir_present_nous",
+      "vous": "pouvoir_present_vous",
+      "ils": "pouvoir_present_ils",
+      "elles": "pouvoir_present_elles"
+    },
+    "passe_compose": {
+      "je": "pouvoir_passe_compose_je",
+      "tu": "pouvoir_passe_compose_tu",
+      "il": "pouvoir_passe_compose_il",
+      "elle": "pouvoir_passe_compose_elle",
+      "on": "pouvoir_passe_compose_on",
+      "nous": "pouvoir_passe_compose_nous",
+      "vous": "pouvoir_passe_compose_vous",
+      "ils": "pouvoir_passe_compose_ils",
+      "elles": "pouvoir_passe_compose_elles"
+    },
+    "futur": {
+      "je": "pouvoir_futur_je",
+      "tu": "pouvoir_futur_tu",
+      "il": "pouvoir_futur_il",
+      "elle": "pouvoir_futur_elle",
+      "on": "pouvoir_futur_on",
+      "nous": "pouvoir_futur_nous",
+      "vous": "pouvoir_futur_vous",
+      "ils": "pouvoir_futur_ils",
+      "elles": "pouvoir_futur_elles"
+    }
+  },
+  "vouloir": {
+    "present": {
+      "je": "vouloir_present_je",
+      "tu": "vouloir_present_tu",
+      "il": "vouloir_present_il",
+      "elle": "vouloir_present_elle",
+      "on": "vouloir_present_on",
+      "nous": "vouloir_present_nous",
+      "vous": "vouloir_present_vous",
+      "ils": "vouloir_present_ils",
+      "elles": "vouloir_present_elles"
+    },
+    "passe_compose": {
+      "je": "vouloir_passe_compose_je",
+      "tu": "vouloir_passe_compose_tu",
+      "il": "vouloir_passe_compose_il",
+      "elle": "vouloir_passe_compose_elle",
+      "on": "vouloir_passe_compose_on",
+      "nous": "vouloir_passe_compose_nous",
+      "vous": "vouloir_passe_compose_vous",
+      "ils": "vouloir_passe_compose_ils",
+      "elles": "vouloir_passe_compose_elles"
+    },
+    "futur": {
+      "je": "vouloir_futur_je",
+      "tu": "vouloir_futur_tu",
+      "il": "vouloir_futur_il",
+      "elle": "vouloir_futur_elle",
+      "on": "vouloir_futur_on",
+      "nous": "vouloir_futur_nous",
+      "vous": "vouloir_futur_vous",
+      "ils": "vouloir_futur_ils",
+      "elles": "vouloir_futur_elles"
+    }
+  },
+  "voir": {
+    "present": {
+      "je": "voir_present_je",
+      "tu": "voir_present_tu",
+      "il": "voir_present_il",
+      "elle": "voir_present_elle",
+      "on": "voir_present_on",
+      "nous": "voir_present_nous",
+      "vous": "voir_present_vous",
+      "ils": "voir_present_ils",
+      "elles": "voir_present_elles"
+    },
+    "passe_compose": {
+      "je": "voir_passe_compose_je",
+      "tu": "voir_passe_compose_tu",
+      "il": "voir_passe_compose_il",
+      "elle": "voir_passe_compose_elle",
+      "on": "voir_passe_compose_on",
+      "nous": "voir_passe_compose_nous",
+      "vous": "voir_passe_compose_vous",
+      "ils": "voir_passe_compose_ils",
+      "elles": "voir_passe_compose_elles"
+    },
+    "futur": {
+      "je": "voir_futur_je",
+      "tu": "voir_futur_tu",
+      "il": "voir_futur_il",
+      "elle": "voir_futur_elle",
+      "on": "voir_futur_on",
+      "nous": "voir_futur_nous",
+      "vous": "voir_futur_vous",
+      "ils": "voir_futur_ils",
+      "elles": "voir_futur_elles"
+    }
+  },
+  "savoir": {
+    "present": {
+      "je": "savoir_present_je",
+      "tu": "savoir_present_tu",
+      "il": "savoir_present_il",
+      "elle": "savoir_present_elle",
+      "on": "savoir_present_on",
+      "nous": "savoir_present_nous",
+      "vous": "savoir_present_vous",
+      "ils": "savoir_present_ils",
+      "elles": "savoir_present_elles"
+    },
+    "passe_compose": {
+      "je": "savoir_passe_compose_je",
+      "tu": "savoir_passe_compose_tu",
+      "il": "savoir_passe_compose_il",
+      "elle": "savoir_passe_compose_elle",
+      "on": "savoir_passe_compose_on",
+      "nous": "savoir_passe_compose_nous",
+      "vous": "savoir_passe_compose_vous",
+      "ils": "savoir_passe_compose_ils",
+      "elles": "savoir_passe_compose_elles"
+    },
+    "futur": {
+      "je": "savoir_futur_je",
+      "tu": "savoir_futur_tu",
+      "il": "savoir_futur_il",
+      "elle": "savoir_futur_elle",
+      "on": "savoir_futur_on",
+      "nous": "savoir_futur_nous",
+      "vous": "savoir_futur_vous",
+      "ils": "savoir_futur_ils",
+      "elles": "savoir_futur_elles"
+    }
+  },
+  "venir": {
+    "present": {
+      "je": "venir_present_je",
+      "tu": "venir_present_tu",
+      "il": "venir_present_il",
+      "elle": "venir_present_elle",
+      "on": "venir_present_on",
+      "nous": "venir_present_nous",
+      "vous": "venir_present_vous",
+      "ils": "venir_present_ils",
+      "elles": "venir_present_elles"
+    },
+    "passe_compose": {
+      "je": "venir_passe_compose_je",
+      "tu": "venir_passe_compose_tu",
+      "il": "venir_passe_compose_il",
+      "elle": "venir_passe_compose_elle",
+      "on": "venir_passe_compose_on",
+      "nous": "venir_passe_compose_nous",
+      "vous": "venir_passe_compose_vous",
+      "ils": "venir_passe_compose_ils",
+      "elles": "venir_passe_compose_elles"
+    },
+    "futur": {
+      "je": "venir_futur_je",
+      "tu": "venir_futur_tu",
+      "il": "venir_futur_il",
+      "elle": "venir_futur_elle",
+      "on": "venir_futur_on",
+      "nous": "venir_futur_nous",
+      "vous": "venir_futur_vous",
+      "ils": "venir_futur_ils",
+      "elles": "venir_futur_elles"
+    }
+  },
+  "devoir": {
+    "present": {
+      "je": "devoir_present_je",
+      "tu": "devoir_present_tu",
+      "il": "devoir_present_il",
+      "elle": "devoir_present_elle",
+      "on": "devoir_present_on",
+      "nous": "devoir_present_nous",
+      "vous": "devoir_present_vous",
+      "ils": "devoir_present_ils",
+      "elles": "devoir_present_elles"
+    },
+    "passe_compose": {
+      "je": "devoir_passe_compose_je",
+      "tu": "devoir_passe_compose_tu",
+      "il": "devoir_passe_compose_il",
+      "elle": "devoir_passe_compose_elle",
+      "on": "devoir_passe_compose_on",
+      "nous": "devoir_passe_compose_nous",
+      "vous": "devoir_passe_compose_vous",
+      "ils": "devoir_passe_compose_ils",
+      "elles": "devoir_passe_compose_elles"
+    },
+    "futur": {
+      "je": "devoir_futur_je",
+      "tu": "devoir_futur_tu",
+      "il": "devoir_futur_il",
+      "elle": "devoir_futur_elle",
+      "on": "devoir_futur_on",
+      "nous": "devoir_futur_nous",
+      "vous": "devoir_futur_vous",
+      "ils": "devoir_futur_ils",
+      "elles": "devoir_futur_elles"
+    }
+  },
+  "prendre": {
+    "present": {
+      "je": "prendre_present_je",
+      "tu": "prendre_present_tu",
+      "il": "prendre_present_il",
+      "elle": "prendre_present_elle",
+      "on": "prendre_present_on",
+      "nous": "prendre_present_nous",
+      "vous": "prendre_present_vous",
+      "ils": "prendre_present_ils",
+      "elles": "prendre_present_elles"
+    },
+    "passe_compose": {
+      "je": "prendre_passe_compose_je",
+      "tu": "prendre_passe_compose_tu",
+      "il": "prendre_passe_compose_il",
+      "elle": "prendre_passe_compose_elle",
+      "on": "prendre_passe_compose_on",
+      "nous": "prendre_passe_compose_nous",
+      "vous": "prendre_passe_compose_vous",
+      "ils": "prendre_passe_compose_ils",
+      "elles": "prendre_passe_compose_elles"
+    },
+    "futur": {
+      "je": "prendre_futur_je",
+      "tu": "prendre_futur_tu",
+      "il": "prendre_futur_il",
+      "elle": "prendre_futur_elle",
+      "on": "prendre_futur_on",
+      "nous": "prendre_futur_nous",
+      "vous": "prendre_futur_vous",
+      "ils": "prendre_futur_ils",
+      "elles": "prendre_futur_elles"
+    }
+  },
+  "trouver": {
+    "present": {
+      "je": "trouver_present_je",
+      "tu": "trouver_present_tu",
+      "il": "trouver_present_il",
+      "elle": "trouver_present_elle",
+      "on": "trouver_present_on",
+      "nous": "trouver_present_nous",
+      "vous": "trouver_present_vous",
+      "ils": "trouver_present_ils",
+      "elles": "trouver_present_elles"
+    },
+    "passe_compose": {
+      "je": "trouver_passe_compose_je",
+      "tu": "trouver_passe_compose_tu",
+      "il": "trouver_passe_compose_il",
+      "elle": "trouver_passe_compose_elle",
+      "on": "trouver_passe_compose_on",
+      "nous": "trouver_passe_compose_nous",
+      "vous": "trouver_passe_compose_vous",
+      "ils": "trouver_passe_compose_ils",
+      "elles": "trouver_passe_compose_elles"
+    },
+    "futur": {
+      "je": "trouver_futur_je",
+      "tu": "trouver_futur_tu",
+      "il": "trouver_futur_il",
+      "elle": "trouver_futur_elle",
+      "on": "trouver_futur_on",
+      "nous": "trouver_futur_nous",
+      "vous": "trouver_futur_vous",
+      "ils": "trouver_futur_ils",
+      "elles": "trouver_futur_elles"
+    }
+  },
+  "donner": {
+    "present": {
+      "je": "donner_present_je",
+      "tu": "donner_present_tu",
+      "il": "donner_present_il",
+      "elle": "donner_present_elle",
+      "on": "donner_present_on",
+      "nous": "donner_present_nous",
+      "vous": "donner_present_vous",
+      "ils": "donner_present_ils",
+      "elles": "donner_present_elles"
+    },
+    "passe_compose": {
+      "je": "donner_passe_compose_je",
+      "tu": "donner_passe_compose_tu",
+      "il": "donner_passe_compose_il",
+      "elle": "donner_passe_compose_elle",
+      "on": "donner_passe_compose_on",
+      "nous": "donner_passe_compose_nous",
+      "vous": "donner_passe_compose_vous",
+      "ils": "donner_passe_compose_ils",
+      "elles": "donner_passe_compose_elles"
+    },
+    "futur": {
+      "je": "donner_futur_je",
+      "tu": "donner_futur_tu",
+      "il": "donner_futur_il",
+      "elle": "donner_futur_elle",
+      "on": "donner_futur_on",
+      "nous": "donner_futur_nous",
+      "vous": "donner_futur_vous",
+      "ils": "donner_futur_ils",
+      "elles": "donner_futur_elles"
+    }
+  },
+  "parler": {
+    "present": {
+      "je": "parler_present_je",
+      "tu": "parler_present_tu",
+      "il": "parler_present_il",
+      "elle": "parler_present_elle",
+      "on": "parler_present_on",
+      "nous": "parler_present_nous",
+      "vous": "parler_present_vous",
+      "ils": "parler_present_ils",
+      "elles": "parler_present_elles"
+    },
+    "passe_compose": {
+      "je": "parler_passe_compose_je",
+      "tu": "parler_passe_compose_tu",
+      "il": "parler_passe_compose_il",
+      "elle": "parler_passe_compose_elle",
+      "on": "parler_passe_compose_on",
+      "nous": "parler_passe_compose_nous",
+      "vous": "parler_passe_compose_vous",
+      "ils": "parler_passe_compose_ils",
+      "elles": "parler_passe_compose_elles"
+    },
+    "futur": {
+      "je": "parler_futur_je",
+      "tu": "parler_futur_tu",
+      "il": "parler_futur_il",
+      "elle": "parler_futur_elle",
+      "on": "parler_futur_on",
+      "nous": "parler_futur_nous",
+      "vous": "parler_futur_vous",
+      "ils": "parler_futur_ils",
+      "elles": "parler_futur_elles"
+    }
+  },
+  "mettre": {
+    "present": {
+      "je": "mettre_present_je",
+      "tu": "mettre_present_tu",
+      "il": "mettre_present_il",
+      "elle": "mettre_present_elle",
+      "on": "mettre_present_on",
+      "nous": "mettre_present_nous",
+      "vous": "mettre_present_vous",
+      "ils": "mettre_present_ils",
+      "elles": "mettre_present_elles"
+    },
+    "passe_compose": {
+      "je": "mettre_passe_compose_je",
+      "tu": "mettre_passe_compose_tu",
+      "il": "mettre_passe_compose_il",
+      "elle": "mettre_passe_compose_elle",
+      "on": "mettre_passe_compose_on",
+      "nous": "mettre_passe_compose_nous",
+      "vous": "mettre_passe_compose_vous",
+      "ils": "mettre_passe_compose_ils",
+      "elles": "mettre_passe_compose_elles"
+    },
+    "futur": {
+      "je": "mettre_futur_je",
+      "tu": "mettre_futur_tu",
+      "il": "mettre_futur_il",
+      "elle": "mettre_futur_elle",
+      "on": "mettre_futur_on",
+      "nous": "mettre_futur_nous",
+      "vous": "mettre_futur_vous",
+      "ils": "mettre_futur_ils",
+      "elles": "mettre_futur_elles"
+    }
+  },
+  "passer": {
+    "present": {
+      "je": "passer_present_je",
+      "tu": "passer_present_tu",
+      "il": "passer_present_il",
+      "elle": "passer_present_elle",
+      "on": "passer_present_on",
+      "nous": "passer_present_nous",
+      "vous": "passer_present_vous",
+      "ils": "passer_present_ils",
+      "elles": "passer_present_elles"
+    },
+    "passe_compose": {
+      "je": "passer_passe_compose_je",
+      "tu": "passer_passe_compose_tu",
+      "il": "passer_passe_compose_il",
+      "elle": "passer_passe_compose_elle",
+      "on": "passer_passe_compose_on",
+      "nous": "passer_passe_compose_nous",
+      "vous": "passer_passe_compose_vous",
+      "ils": "passer_passe_compose_ils",
+      "elles": "passer_passe_compose_elles"
+    },
+    "futur": {
+      "je": "passer_futur_je",
+      "tu": "passer_futur_tu",
+      "il": "passer_futur_il",
+      "elle": "passer_futur_elle",
+      "on": "passer_futur_on",
+      "nous": "passer_futur_nous",
+      "vous": "passer_futur_vous",
+      "ils": "passer_futur_ils",
+      "elles": "passer_futur_elles"
+    }
+  },
+  "aimer": {
+    "present": {
+      "je": "aimer_present_je",
+      "tu": "aimer_present_tu",
+      "il": "aimer_present_il",
+      "elle": "aimer_present_elle",
+      "on": "aimer_present_on",
+      "nous": "aimer_present_nous",
+      "vous": "aimer_present_vous",
+      "ils": "aimer_present_ils",
+      "elles": "aimer_present_elles"
+    },
+    "passe_compose": {
+      "je": "aimer_passe_compose_je",
+      "tu": "aimer_passe_compose_tu",
+      "il": "aimer_passe_compose_il",
+      "elle": "aimer_passe_compose_elle",
+      "on": "aimer_passe_compose_on",
+      "nous": "aimer_passe_compose_nous",
+      "vous": "aimer_passe_compose_vous",
+      "ils": "aimer_passe_compose_ils",
+      "elles": "aimer_passe_compose_elles"
+    },
+    "futur": {
+      "je": "aimer_futur_je",
+      "tu": "aimer_futur_tu",
+      "il": "aimer_futur_il",
+      "elle": "aimer_futur_elle",
+      "on": "aimer_futur_on",
+      "nous": "aimer_futur_nous",
+      "vous": "aimer_futur_vous",
+      "ils": "aimer_futur_ils",
+      "elles": "aimer_futur_elles"
+    }
+  },
+  "croire": {
+    "present": {
+      "je": "croire_present_je",
+      "tu": "croire_present_tu",
+      "il": "croire_present_il",
+      "elle": "croire_present_elle",
+      "on": "croire_present_on",
+      "nous": "croire_present_nous",
+      "vous": "croire_present_vous",
+      "ils": "croire_present_ils",
+      "elles": "croire_present_elles"
+    },
+    "passe_compose": {
+      "je": "croire_passe_compose_je",
+      "tu": "croire_passe_compose_tu",
+      "il": "croire_passe_compose_il",
+      "elle": "croire_passe_compose_elle",
+      "on": "croire_passe_compose_on",
+      "nous": "croire_passe_compose_nous",
+      "vous": "croire_passe_compose_vous",
+      "ils": "croire_passe_compose_ils",
+      "elles": "croire_passe_compose_elles"
+    },
+    "futur": {
+      "je": "croire_futur_je",
+      "tu": "croire_futur_tu",
+      "il": "croire_futur_il",
+      "elle": "croire_futur_elle",
+      "on": "croire_futur_on",
+      "nous": "croire_futur_nous",
+      "vous": "croire_futur_vous",
+      "ils": "croire_futur_ils",
+      "elles": "croire_futur_elles"
+    }
+  },
+  "demander": {
+    "present": {
+      "je": "demander_present_je",
+      "tu": "demander_present_tu",
+      "il": "demander_present_il",
+      "elle": "demander_present_elle",
+      "on": "demander_present_on",
+      "nous": "demander_present_nous",
+      "vous": "demander_present_vous",
+      "ils": "demander_present_ils",
+      "elles": "demander_present_elles"
+    },
+    "passe_compose": {
+      "je": "demander_passe_compose_je",
+      "tu": "demander_passe_compose_tu",
+      "il": "demander_passe_compose_il",
+      "elle": "demander_passe_compose_elle",
+      "on": "demander_passe_compose_on",
+      "nous": "demander_passe_compose_nous",
+      "vous": "demander_passe_compose_vous",
+      "ils": "demander_passe_compose_ils",
+      "elles": "demander_passe_compose_elles"
+    },
+    "futur": {
+      "je": "demander_futur_je",
+      "tu": "demander_futur_tu",
+      "il": "demander_futur_il",
+      "elle": "demander_futur_elle",
+      "on": "demander_futur_on",
+      "nous": "demander_futur_nous",
+      "vous": "demander_futur_vous",
+      "ils": "demander_futur_ils",
+      "elles": "demander_futur_elles"
+    }
+  },
+  "tenir": {
+    "present": {
+      "je": "tenir_present_je",
+      "tu": "tenir_present_tu",
+      "il": "tenir_present_il",
+      "elle": "tenir_present_elle",
+      "on": "tenir_present_on",
+      "nous": "tenir_present_nous",
+      "vous": "tenir_present_vous",
+      "ils": "tenir_present_ils",
+      "elles": "tenir_present_elles"
+    },
+    "passe_compose": {
+      "je": "tenir_passe_compose_je",
+      "tu": "tenir_passe_compose_tu",
+      "il": "tenir_passe_compose_il",
+      "elle": "tenir_passe_compose_elle",
+      "on": "tenir_passe_compose_on",
+      "nous": "tenir_passe_compose_nous",
+      "vous": "tenir_passe_compose_vous",
+      "ils": "tenir_passe_compose_ils",
+      "elles": "tenir_passe_compose_elles"
+    },
+    "futur": {
+      "je": "tenir_futur_je",
+      "tu": "tenir_futur_tu",
+      "il": "tenir_futur_il",
+      "elle": "tenir_futur_elle",
+      "on": "tenir_futur_on",
+      "nous": "tenir_futur_nous",
+      "vous": "tenir_futur_vous",
+      "ils": "tenir_futur_ils",
+      "elles": "tenir_futur_elles"
+    }
+  },
+  "sembler": {
+    "present": {
+      "je": "sembler_present_je",
+      "tu": "sembler_present_tu",
+      "il": "sembler_present_il",
+      "elle": "sembler_present_elle",
+      "on": "sembler_present_on",
+      "nous": "sembler_present_nous",
+      "vous": "sembler_present_vous",
+      "ils": "sembler_present_ils",
+      "elles": "sembler_present_elles"
+    },
+    "passe_compose": {
+      "je": "sembler_passe_compose_je",
+      "tu": "sembler_passe_compose_tu",
+      "il": "sembler_passe_compose_il",
+      "elle": "sembler_passe_compose_elle",
+      "on": "sembler_passe_compose_on",
+      "nous": "sembler_passe_compose_nous",
+      "vous": "sembler_passe_compose_vous",
+      "ils": "sembler_passe_compose_ils",
+      "elles": "sembler_passe_compose_elles"
+    },
+    "futur": {
+      "je": "sembler_futur_je",
+      "tu": "sembler_futur_tu",
+      "il": "sembler_futur_il",
+      "elle": "sembler_futur_elle",
+      "on": "sembler_futur_on",
+      "nous": "sembler_futur_nous",
+      "vous": "sembler_futur_vous",
+      "ils": "sembler_futur_ils",
+      "elles": "sembler_futur_elles"
+    }
+  },
+  "laisser": {
+    "present": {
+      "je": "laisser_present_je",
+      "tu": "laisser_present_tu",
+      "il": "laisser_present_il",
+      "elle": "laisser_present_elle",
+      "on": "laisser_present_on",
+      "nous": "laisser_present_nous",
+      "vous": "laisser_present_vous",
+      "ils": "laisser_present_ils",
+      "elles": "laisser_present_elles"
+    },
+    "passe_compose": {
+      "je": "laisser_passe_compose_je",
+      "tu": "laisser_passe_compose_tu",
+      "il": "laisser_passe_compose_il",
+      "elle": "laisser_passe_compose_elle",
+      "on": "laisser_passe_compose_on",
+      "nous": "laisser_passe_compose_nous",
+      "vous": "laisser_passe_compose_vous",
+      "ils": "laisser_passe_compose_ils",
+      "elles": "laisser_passe_compose_elles"
+    },
+    "futur": {
+      "je": "laisser_futur_je",
+      "tu": "laisser_futur_tu",
+      "il": "laisser_futur_il",
+      "elle": "laisser_futur_elle",
+      "on": "laisser_futur_on",
+      "nous": "laisser_futur_nous",
+      "vous": "laisser_futur_vous",
+      "ils": "laisser_futur_ils",
+      "elles": "laisser_futur_elles"
+    }
+  },
+  "rester": {
+    "present": {
+      "je": "rester_present_je",
+      "tu": "rester_present_tu",
+      "il": "rester_present_il",
+      "elle": "rester_present_elle",
+      "on": "rester_present_on",
+      "nous": "rester_present_nous",
+      "vous": "rester_present_vous",
+      "ils": "rester_present_ils",
+      "elles": "rester_present_elles"
+    },
+    "passe_compose": {
+      "je": "rester_passe_compose_je",
+      "tu": "rester_passe_compose_tu",
+      "il": "rester_passe_compose_il",
+      "elle": "rester_passe_compose_elle",
+      "on": "rester_passe_compose_on",
+      "nous": "rester_passe_compose_nous",
+      "vous": "rester_passe_compose_vous",
+      "ils": "rester_passe_compose_ils",
+      "elles": "rester_passe_compose_elles"
+    },
+    "futur": {
+      "je": "rester_futur_je",
+      "tu": "rester_futur_tu",
+      "il": "rester_futur_il",
+      "elle": "rester_futur_elle",
+      "on": "rester_futur_on",
+      "nous": "rester_futur_nous",
+      "vous": "rester_futur_vous",
+      "ils": "rester_futur_ils",
+      "elles": "rester_futur_elles"
+    }
+  },
+  "penser": {
+    "present": {
+      "je": "penser_present_je",
+      "tu": "penser_present_tu",
+      "il": "penser_present_il",
+      "elle": "penser_present_elle",
+      "on": "penser_present_on",
+      "nous": "penser_present_nous",
+      "vous": "penser_present_vous",
+      "ils": "penser_present_ils",
+      "elles": "penser_present_elles"
+    },
+    "passe_compose": {
+      "je": "penser_passe_compose_je",
+      "tu": "penser_passe_compose_tu",
+      "il": "penser_passe_compose_il",
+      "elle": "penser_passe_compose_elle",
+      "on": "penser_passe_compose_on",
+      "nous": "penser_passe_compose_nous",
+      "vous": "penser_passe_compose_vous",
+      "ils": "penser_passe_compose_ils",
+      "elles": "penser_passe_compose_elles"
+    },
+    "futur": {
+      "je": "penser_futur_je",
+      "tu": "penser_futur_tu",
+      "il": "penser_futur_il",
+      "elle": "penser_futur_elle",
+      "on": "penser_futur_on",
+      "nous": "penser_futur_nous",
+      "vous": "penser_futur_vous",
+      "ils": "penser_futur_ils",
+      "elles": "penser_futur_elles"
+    }
+  },
+  "entendre": {
+    "present": {
+      "je": "entendre_present_je",
+      "tu": "entendre_present_tu",
+      "il": "entendre_present_il",
+      "elle": "entendre_present_elle",
+      "on": "entendre_present_on",
+      "nous": "entendre_present_nous",
+      "vous": "entendre_present_vous",
+      "ils": "entendre_present_ils",
+      "elles": "entendre_present_elles"
+    },
+    "passe_compose": {
+      "je": "entendre_passe_compose_je",
+      "tu": "entendre_passe_compose_tu",
+      "il": "entendre_passe_compose_il",
+      "elle": "entendre_passe_compose_elle",
+      "on": "entendre_passe_compose_on",
+      "nous": "entendre_passe_compose_nous",
+      "vous": "entendre_passe_compose_vous",
+      "ils": "entendre_passe_compose_ils",
+      "elles": "entendre_passe_compose_elles"
+    },
+    "futur": {
+      "je": "entendre_futur_je",
+      "tu": "entendre_futur_tu",
+      "il": "entendre_futur_il",
+      "elle": "entendre_futur_elle",
+      "on": "entendre_futur_on",
+      "nous": "entendre_futur_nous",
+      "vous": "entendre_futur_vous",
+      "ils": "entendre_futur_ils",
+      "elles": "entendre_futur_elles"
+    }
+  },
+  "regarder": {
+    "present": {
+      "je": "regarder_present_je",
+      "tu": "regarder_present_tu",
+      "il": "regarder_present_il",
+      "elle": "regarder_present_elle",
+      "on": "regarder_present_on",
+      "nous": "regarder_present_nous",
+      "vous": "regarder_present_vous",
+      "ils": "regarder_present_ils",
+      "elles": "regarder_present_elles"
+    },
+    "passe_compose": {
+      "je": "regarder_passe_compose_je",
+      "tu": "regarder_passe_compose_tu",
+      "il": "regarder_passe_compose_il",
+      "elle": "regarder_passe_compose_elle",
+      "on": "regarder_passe_compose_on",
+      "nous": "regarder_passe_compose_nous",
+      "vous": "regarder_passe_compose_vous",
+      "ils": "regarder_passe_compose_ils",
+      "elles": "regarder_passe_compose_elles"
+    },
+    "futur": {
+      "je": "regarder_futur_je",
+      "tu": "regarder_futur_tu",
+      "il": "regarder_futur_il",
+      "elle": "regarder_futur_elle",
+      "on": "regarder_futur_on",
+      "nous": "regarder_futur_nous",
+      "vous": "regarder_futur_vous",
+      "ils": "regarder_futur_ils",
+      "elles": "regarder_futur_elles"
+    }
+  },
+  "répondre": {
+    "present": {
+      "je": "répondre_present_je",
+      "tu": "répondre_present_tu",
+      "il": "répondre_present_il",
+      "elle": "répondre_present_elle",
+      "on": "répondre_present_on",
+      "nous": "répondre_present_nous",
+      "vous": "répondre_present_vous",
+      "ils": "répondre_present_ils",
+      "elles": "répondre_present_elles"
+    },
+    "passe_compose": {
+      "je": "répondre_passe_compose_je",
+      "tu": "répondre_passe_compose_tu",
+      "il": "répondre_passe_compose_il",
+      "elle": "répondre_passe_compose_elle",
+      "on": "répondre_passe_compose_on",
+      "nous": "répondre_passe_compose_nous",
+      "vous": "répondre_passe_compose_vous",
+      "ils": "répondre_passe_compose_ils",
+      "elles": "répondre_passe_compose_elles"
+    },
+    "futur": {
+      "je": "répondre_futur_je",
+      "tu": "répondre_futur_tu",
+      "il": "répondre_futur_il",
+      "elle": "répondre_futur_elle",
+      "on": "répondre_futur_on",
+      "nous": "répondre_futur_nous",
+      "vous": "répondre_futur_vous",
+      "ils": "répondre_futur_ils",
+      "elles": "répondre_futur_elles"
+    }
+  },
+  "rendre": {
+    "present": {
+      "je": "rendre_present_je",
+      "tu": "rendre_present_tu",
+      "il": "rendre_present_il",
+      "elle": "rendre_present_elle",
+      "on": "rendre_present_on",
+      "nous": "rendre_present_nous",
+      "vous": "rendre_present_vous",
+      "ils": "rendre_present_ils",
+      "elles": "rendre_present_elles"
+    },
+    "passe_compose": {
+      "je": "rendre_passe_compose_je",
+      "tu": "rendre_passe_compose_tu",
+      "il": "rendre_passe_compose_il",
+      "elle": "rendre_passe_compose_elle",
+      "on": "rendre_passe_compose_on",
+      "nous": "rendre_passe_compose_nous",
+      "vous": "rendre_passe_compose_vous",
+      "ils": "rendre_passe_compose_ils",
+      "elles": "rendre_passe_compose_elles"
+    },
+    "futur": {
+      "je": "rendre_futur_je",
+      "tu": "rendre_futur_tu",
+      "il": "rendre_futur_il",
+      "elle": "rendre_futur_elle",
+      "on": "rendre_futur_on",
+      "nous": "rendre_futur_nous",
+      "vous": "rendre_futur_vous",
+      "ils": "rendre_futur_ils",
+      "elles": "rendre_futur_elles"
+    }
+  },
+  "connaître": {
+    "present": {
+      "je": "connaître_present_je",
+      "tu": "connaître_present_tu",
+      "il": "connaître_present_il",
+      "elle": "connaître_present_elle",
+      "on": "connaître_present_on",
+      "nous": "connaître_present_nous",
+      "vous": "connaître_present_vous",
+      "ils": "connaître_present_ils",
+      "elles": "connaître_present_elles"
+    },
+    "passe_compose": {
+      "je": "connaître_passe_compose_je",
+      "tu": "connaître_passe_compose_tu",
+      "il": "connaître_passe_compose_il",
+      "elle": "connaître_passe_compose_elle",
+      "on": "connaître_passe_compose_on",
+      "nous": "connaître_passe_compose_nous",
+      "vous": "connaître_passe_compose_vous",
+      "ils": "connaître_passe_compose_ils",
+      "elles": "connaître_passe_compose_elles"
+    },
+    "futur": {
+      "je": "connaître_futur_je",
+      "tu": "connaître_futur_tu",
+      "il": "connaître_futur_il",
+      "elle": "connaître_futur_elle",
+      "on": "connaître_futur_on",
+      "nous": "connaître_futur_nous",
+      "vous": "connaître_futur_vous",
+      "ils": "connaître_futur_ils",
+      "elles": "connaître_futur_elles"
+    }
+  },
+  "vivre": {
+    "present": {
+      "je": "vivre_present_je",
+      "tu": "vivre_present_tu",
+      "il": "vivre_present_il",
+      "elle": "vivre_present_elle",
+      "on": "vivre_present_on",
+      "nous": "vivre_present_nous",
+      "vous": "vivre_present_vous",
+      "ils": "vivre_present_ils",
+      "elles": "vivre_present_elles"
+    },
+    "passe_compose": {
+      "je": "vivre_passe_compose_je",
+      "tu": "vivre_passe_compose_tu",
+      "il": "vivre_passe_compose_il",
+      "elle": "vivre_passe_compose_elle",
+      "on": "vivre_passe_compose_on",
+      "nous": "vivre_passe_compose_nous",
+      "vous": "vivre_passe_compose_vous",
+      "ils": "vivre_passe_compose_ils",
+      "elles": "vivre_passe_compose_elles"
+    },
+    "futur": {
+      "je": "vivre_futur_je",
+      "tu": "vivre_futur_tu",
+      "il": "vivre_futur_il",
+      "elle": "vivre_futur_elle",
+      "on": "vivre_futur_on",
+      "nous": "vivre_futur_nous",
+      "vous": "vivre_futur_vous",
+      "ils": "vivre_futur_ils",
+      "elles": "vivre_futur_elles"
+    }
+  },
+  "porter": {
+    "present": {
+      "je": "porter_present_je",
+      "tu": "porter_present_tu",
+      "il": "porter_present_il",
+      "elle": "porter_present_elle",
+      "on": "porter_present_on",
+      "nous": "porter_present_nous",
+      "vous": "porter_present_vous",
+      "ils": "porter_present_ils",
+      "elles": "porter_present_elles"
+    },
+    "passe_compose": {
+      "je": "porter_passe_compose_je",
+      "tu": "porter_passe_compose_tu",
+      "il": "porter_passe_compose_il",
+      "elle": "porter_passe_compose_elle",
+      "on": "porter_passe_compose_on",
+      "nous": "porter_passe_compose_nous",
+      "vous": "porter_passe_compose_vous",
+      "ils": "porter_passe_compose_ils",
+      "elles": "porter_passe_compose_elles"
+    },
+    "futur": {
+      "je": "porter_futur_je",
+      "tu": "porter_futur_tu",
+      "il": "porter_futur_il",
+      "elle": "porter_futur_elle",
+      "on": "porter_futur_on",
+      "nous": "porter_futur_nous",
+      "vous": "porter_futur_vous",
+      "ils": "porter_futur_ils",
+      "elles": "porter_futur_elles"
+    }
+  },
+  "arriver": {
+    "present": {
+      "je": "arriver_present_je",
+      "tu": "arriver_present_tu",
+      "il": "arriver_present_il",
+      "elle": "arriver_present_elle",
+      "on": "arriver_present_on",
+      "nous": "arriver_present_nous",
+      "vous": "arriver_present_vous",
+      "ils": "arriver_present_ils",
+      "elles": "arriver_present_elles"
+    },
+    "passe_compose": {
+      "je": "arriver_passe_compose_je",
+      "tu": "arriver_passe_compose_tu",
+      "il": "arriver_passe_compose_il",
+      "elle": "arriver_passe_compose_elle",
+      "on": "arriver_passe_compose_on",
+      "nous": "arriver_passe_compose_nous",
+      "vous": "arriver_passe_compose_vous",
+      "ils": "arriver_passe_compose_ils",
+      "elles": "arriver_passe_compose_elles"
+    },
+    "futur": {
+      "je": "arriver_futur_je",
+      "tu": "arriver_futur_tu",
+      "il": "arriver_futur_il",
+      "elle": "arriver_futur_elle",
+      "on": "arriver_futur_on",
+      "nous": "arriver_futur_nous",
+      "vous": "arriver_futur_vous",
+      "ils": "arriver_futur_ils",
+      "elles": "arriver_futur_elles"
+    }
+  },
+  "servir": {
+    "present": {
+      "je": "servir_present_je",
+      "tu": "servir_present_tu",
+      "il": "servir_present_il",
+      "elle": "servir_present_elle",
+      "on": "servir_present_on",
+      "nous": "servir_present_nous",
+      "vous": "servir_present_vous",
+      "ils": "servir_present_ils",
+      "elles": "servir_present_elles"
+    },
+    "passe_compose": {
+      "je": "servir_passe_compose_je",
+      "tu": "servir_passe_compose_tu",
+      "il": "servir_passe_compose_il",
+      "elle": "servir_passe_compose_elle",
+      "on": "servir_passe_compose_on",
+      "nous": "servir_passe_compose_nous",
+      "vous": "servir_passe_compose_vous",
+      "ils": "servir_passe_compose_ils",
+      "elles": "servir_passe_compose_elles"
+    },
+    "futur": {
+      "je": "servir_futur_je",
+      "tu": "servir_futur_tu",
+      "il": "servir_futur_il",
+      "elle": "servir_futur_elle",
+      "on": "servir_futur_on",
+      "nous": "servir_futur_nous",
+      "vous": "servir_futur_vous",
+      "ils": "servir_futur_ils",
+      "elles": "servir_futur_elles"
+    }
+  },
+  "chercher": {
+    "present": {
+      "je": "chercher_present_je",
+      "tu": "chercher_present_tu",
+      "il": "chercher_present_il",
+      "elle": "chercher_present_elle",
+      "on": "chercher_present_on",
+      "nous": "chercher_present_nous",
+      "vous": "chercher_present_vous",
+      "ils": "chercher_present_ils",
+      "elles": "chercher_present_elles"
+    },
+    "passe_compose": {
+      "je": "chercher_passe_compose_je",
+      "tu": "chercher_passe_compose_tu",
+      "il": "chercher_passe_compose_il",
+      "elle": "chercher_passe_compose_elle",
+      "on": "chercher_passe_compose_on",
+      "nous": "chercher_passe_compose_nous",
+      "vous": "chercher_passe_compose_vous",
+      "ils": "chercher_passe_compose_ils",
+      "elles": "chercher_passe_compose_elles"
+    },
+    "futur": {
+      "je": "chercher_futur_je",
+      "tu": "chercher_futur_tu",
+      "il": "chercher_futur_il",
+      "elle": "chercher_futur_elle",
+      "on": "chercher_futur_on",
+      "nous": "chercher_futur_nous",
+      "vous": "chercher_futur_vous",
+      "ils": "chercher_futur_ils",
+      "elles": "chercher_futur_elles"
+    }
+  },
+  "comprendre": {
+    "present": {
+      "je": "comprendre_present_je",
+      "tu": "comprendre_present_tu",
+      "il": "comprendre_present_il",
+      "elle": "comprendre_present_elle",
+      "on": "comprendre_present_on",
+      "nous": "comprendre_present_nous",
+      "vous": "comprendre_present_vous",
+      "ils": "comprendre_present_ils",
+      "elles": "comprendre_present_elles"
+    },
+    "passe_compose": {
+      "je": "comprendre_passe_compose_je",
+      "tu": "comprendre_passe_compose_tu",
+      "il": "comprendre_passe_compose_il",
+      "elle": "comprendre_passe_compose_elle",
+      "on": "comprendre_passe_compose_on",
+      "nous": "comprendre_passe_compose_nous",
+      "vous": "comprendre_passe_compose_vous",
+      "ils": "comprendre_passe_compose_ils",
+      "elles": "comprendre_passe_compose_elles"
+    },
+    "futur": {
+      "je": "comprendre_futur_je",
+      "tu": "comprendre_futur_tu",
+      "il": "comprendre_futur_il",
+      "elle": "comprendre_futur_elle",
+      "on": "comprendre_futur_on",
+      "nous": "comprendre_futur_nous",
+      "vous": "comprendre_futur_vous",
+      "ils": "comprendre_futur_ils",
+      "elles": "comprendre_futur_elles"
+    }
+  },
+  "sortir": {
+    "present": {
+      "je": "sortir_present_je",
+      "tu": "sortir_present_tu",
+      "il": "sortir_present_il",
+      "elle": "sortir_present_elle",
+      "on": "sortir_present_on",
+      "nous": "sortir_present_nous",
+      "vous": "sortir_present_vous",
+      "ils": "sortir_present_ils",
+      "elles": "sortir_present_elles"
+    },
+    "passe_compose": {
+      "je": "sortir_passe_compose_je",
+      "tu": "sortir_passe_compose_tu",
+      "il": "sortir_passe_compose_il",
+      "elle": "sortir_passe_compose_elle",
+      "on": "sortir_passe_compose_on",
+      "nous": "sortir_passe_compose_nous",
+      "vous": "sortir_passe_compose_vous",
+      "ils": "sortir_passe_compose_ils",
+      "elles": "sortir_passe_compose_elles"
+    },
+    "futur": {
+      "je": "sortir_futur_je",
+      "tu": "sortir_futur_tu",
+      "il": "sortir_futur_il",
+      "elle": "sortir_futur_elle",
+      "on": "sortir_futur_on",
+      "nous": "sortir_futur_nous",
+      "vous": "sortir_futur_vous",
+      "ils": "sortir_futur_ils",
+      "elles": "sortir_futur_elles"
+    }
+  },
+  "recevoir": {
+    "present": {
+      "je": "recevoir_present_je",
+      "tu": "recevoir_present_tu",
+      "il": "recevoir_present_il",
+      "elle": "recevoir_present_elle",
+      "on": "recevoir_present_on",
+      "nous": "recevoir_present_nous",
+      "vous": "recevoir_present_vous",
+      "ils": "recevoir_present_ils",
+      "elles": "recevoir_present_elles"
+    },
+    "passe_compose": {
+      "je": "recevoir_passe_compose_je",
+      "tu": "recevoir_passe_compose_tu",
+      "il": "recevoir_passe_compose_il",
+      "elle": "recevoir_passe_compose_elle",
+      "on": "recevoir_passe_compose_on",
+      "nous": "recevoir_passe_compose_nous",
+      "vous": "recevoir_passe_compose_vous",
+      "ils": "recevoir_passe_compose_ils",
+      "elles": "recevoir_passe_compose_elles"
+    },
+    "futur": {
+      "je": "recevoir_futur_je",
+      "tu": "recevoir_futur_tu",
+      "il": "recevoir_futur_il",
+      "elle": "recevoir_futur_elle",
+      "on": "recevoir_futur_on",
+      "nous": "recevoir_futur_nous",
+      "vous": "recevoir_futur_vous",
+      "ils": "recevoir_futur_ils",
+      "elles": "recevoir_futur_elles"
+    }
+  },
+  "ouvrir": {
+    "present": {
+      "je": "ouvrir_present_je",
+      "tu": "ouvrir_present_tu",
+      "il": "ouvrir_present_il",
+      "elle": "ouvrir_present_elle",
+      "on": "ouvrir_present_on",
+      "nous": "ouvrir_present_nous",
+      "vous": "ouvrir_present_vous",
+      "ils": "ouvrir_present_ils",
+      "elles": "ouvrir_present_elles"
+    },
+    "passe_compose": {
+      "je": "ouvrir_passe_compose_je",
+      "tu": "ouvrir_passe_compose_tu",
+      "il": "ouvrir_passe_compose_il",
+      "elle": "ouvrir_passe_compose_elle",
+      "on": "ouvrir_passe_compose_on",
+      "nous": "ouvrir_passe_compose_nous",
+      "vous": "ouvrir_passe_compose_vous",
+      "ils": "ouvrir_passe_compose_ils",
+      "elles": "ouvrir_passe_compose_elles"
+    },
+    "futur": {
+      "je": "ouvrir_futur_je",
+      "tu": "ouvrir_futur_tu",
+      "il": "ouvrir_futur_il",
+      "elle": "ouvrir_futur_elle",
+      "on": "ouvrir_futur_on",
+      "nous": "ouvrir_futur_nous",
+      "vous": "ouvrir_futur_vous",
+      "ils": "ouvrir_futur_ils",
+      "elles": "ouvrir_futur_elles"
+    }
+  },
+  "lire": {
+    "present": {
+      "je": "lire_present_je",
+      "tu": "lire_present_tu",
+      "il": "lire_present_il",
+      "elle": "lire_present_elle",
+      "on": "lire_present_on",
+      "nous": "lire_present_nous",
+      "vous": "lire_present_vous",
+      "ils": "lire_present_ils",
+      "elles": "lire_present_elles"
+    },
+    "passe_compose": {
+      "je": "lire_passe_compose_je",
+      "tu": "lire_passe_compose_tu",
+      "il": "lire_passe_compose_il",
+      "elle": "lire_passe_compose_elle",
+      "on": "lire_passe_compose_on",
+      "nous": "lire_passe_compose_nous",
+      "vous": "lire_passe_compose_vous",
+      "ils": "lire_passe_compose_ils",
+      "elles": "lire_passe_compose_elles"
+    },
+    "futur": {
+      "je": "lire_futur_je",
+      "tu": "lire_futur_tu",
+      "il": "lire_futur_il",
+      "elle": "lire_futur_elle",
+      "on": "lire_futur_on",
+      "nous": "lire_futur_nous",
+      "vous": "lire_futur_vous",
+      "ils": "lire_futur_ils",
+      "elles": "lire_futur_elles"
+    }
+  },
+  "écrire": {
+    "present": {
+      "je": "écrire_present_je",
+      "tu": "écrire_present_tu",
+      "il": "écrire_present_il",
+      "elle": "écrire_present_elle",
+      "on": "écrire_present_on",
+      "nous": "écrire_present_nous",
+      "vous": "écrire_present_vous",
+      "ils": "écrire_present_ils",
+      "elles": "écrire_present_elles"
+    },
+    "passe_compose": {
+      "je": "écrire_passe_compose_je",
+      "tu": "écrire_passe_compose_tu",
+      "il": "écrire_passe_compose_il",
+      "elle": "écrire_passe_compose_elle",
+      "on": "écrire_passe_compose_on",
+      "nous": "écrire_passe_compose_nous",
+      "vous": "écrire_passe_compose_vous",
+      "ils": "écrire_passe_compose_ils",
+      "elles": "écrire_passe_compose_elles"
+    },
+    "futur": {
+      "je": "écrire_futur_je",
+      "tu": "écrire_futur_tu",
+      "il": "écrire_futur_il",
+      "elle": "écrire_futur_elle",
+      "on": "écrire_futur_on",
+      "nous": "écrire_futur_nous",
+      "vous": "écrire_futur_vous",
+      "ils": "écrire_futur_ils",
+      "elles": "écrire_futur_elles"
+    }
+  },
+  "perdre": {
+    "present": {
+      "je": "perdre_present_je",
+      "tu": "perdre_present_tu",
+      "il": "perdre_present_il",
+      "elle": "perdre_present_elle",
+      "on": "perdre_present_on",
+      "nous": "perdre_present_nous",
+      "vous": "perdre_present_vous",
+      "ils": "perdre_present_ils",
+      "elles": "perdre_present_elles"
+    },
+    "passe_compose": {
+      "je": "perdre_passe_compose_je",
+      "tu": "perdre_passe_compose_tu",
+      "il": "perdre_passe_compose_il",
+      "elle": "perdre_passe_compose_elle",
+      "on": "perdre_passe_compose_on",
+      "nous": "perdre_passe_compose_nous",
+      "vous": "perdre_passe_compose_vous",
+      "ils": "perdre_passe_compose_ils",
+      "elles": "perdre_passe_compose_elles"
+    },
+    "futur": {
+      "je": "perdre_futur_je",
+      "tu": "perdre_futur_tu",
+      "il": "perdre_futur_il",
+      "elle": "perdre_futur_elle",
+      "on": "perdre_futur_on",
+      "nous": "perdre_futur_nous",
+      "vous": "perdre_futur_vous",
+      "ils": "perdre_futur_ils",
+      "elles": "perdre_futur_elles"
+    }
+  },
+  "jouer": {
+    "present": {
+      "je": "jouer_present_je",
+      "tu": "jouer_present_tu",
+      "il": "jouer_present_il",
+      "elle": "jouer_present_elle",
+      "on": "jouer_present_on",
+      "nous": "jouer_present_nous",
+      "vous": "jouer_present_vous",
+      "ils": "jouer_present_ils",
+      "elles": "jouer_present_elles"
+    },
+    "passe_compose": {
+      "je": "jouer_passe_compose_je",
+      "tu": "jouer_passe_compose_tu",
+      "il": "jouer_passe_compose_il",
+      "elle": "jouer_passe_compose_elle",
+      "on": "jouer_passe_compose_on",
+      "nous": "jouer_passe_compose_nous",
+      "vous": "jouer_passe_compose_vous",
+      "ils": "jouer_passe_compose_ils",
+      "elles": "jouer_passe_compose_elles"
+    },
+    "futur": {
+      "je": "jouer_futur_je",
+      "tu": "jouer_futur_tu",
+      "il": "jouer_futur_il",
+      "elle": "jouer_futur_elle",
+      "on": "jouer_futur_on",
+      "nous": "jouer_futur_nous",
+      "vous": "jouer_futur_vous",
+      "ils": "jouer_futur_ils",
+      "elles": "jouer_futur_elles"
+    }
+  },
+  "suivre": {
+    "present": {
+      "je": "suivre_present_je",
+      "tu": "suivre_present_tu",
+      "il": "suivre_present_il",
+      "elle": "suivre_present_elle",
+      "on": "suivre_present_on",
+      "nous": "suivre_present_nous",
+      "vous": "suivre_present_vous",
+      "ils": "suivre_present_ils",
+      "elles": "suivre_present_elles"
+    },
+    "passe_compose": {
+      "je": "suivre_passe_compose_je",
+      "tu": "suivre_passe_compose_tu",
+      "il": "suivre_passe_compose_il",
+      "elle": "suivre_passe_compose_elle",
+      "on": "suivre_passe_compose_on",
+      "nous": "suivre_passe_compose_nous",
+      "vous": "suivre_passe_compose_vous",
+      "ils": "suivre_passe_compose_ils",
+      "elles": "suivre_passe_compose_elles"
+    },
+    "futur": {
+      "je": "suivre_futur_je",
+      "tu": "suivre_futur_tu",
+      "il": "suivre_futur_il",
+      "elle": "suivre_futur_elle",
+      "on": "suivre_futur_on",
+      "nous": "suivre_futur_nous",
+      "vous": "suivre_futur_vous",
+      "ils": "suivre_futur_ils",
+      "elles": "suivre_futur_elles"
+    }
+  },
+  "montrer": {
+    "present": {
+      "je": "montrer_present_je",
+      "tu": "montrer_present_tu",
+      "il": "montrer_present_il",
+      "elle": "montrer_present_elle",
+      "on": "montrer_present_on",
+      "nous": "montrer_present_nous",
+      "vous": "montrer_present_vous",
+      "ils": "montrer_present_ils",
+      "elles": "montrer_present_elles"
+    },
+    "passe_compose": {
+      "je": "montrer_passe_compose_je",
+      "tu": "montrer_passe_compose_tu",
+      "il": "montrer_passe_compose_il",
+      "elle": "montrer_passe_compose_elle",
+      "on": "montrer_passe_compose_on",
+      "nous": "montrer_passe_compose_nous",
+      "vous": "montrer_passe_compose_vous",
+      "ils": "montrer_passe_compose_ils",
+      "elles": "montrer_passe_compose_elles"
+    },
+    "futur": {
+      "je": "montrer_futur_je",
+      "tu": "montrer_futur_tu",
+      "il": "montrer_futur_il",
+      "elle": "montrer_futur_elle",
+      "on": "montrer_futur_on",
+      "nous": "montrer_futur_nous",
+      "vous": "montrer_futur_vous",
+      "ils": "montrer_futur_ils",
+      "elles": "montrer_futur_elles"
+    }
+  },
+  "tomber": {
+    "present": {
+      "je": "tomber_present_je",
+      "tu": "tomber_present_tu",
+      "il": "tomber_present_il",
+      "elle": "tomber_present_elle",
+      "on": "tomber_present_on",
+      "nous": "tomber_present_nous",
+      "vous": "tomber_present_vous",
+      "ils": "tomber_present_ils",
+      "elles": "tomber_present_elles"
+    },
+    "passe_compose": {
+      "je": "tomber_passe_compose_je",
+      "tu": "tomber_passe_compose_tu",
+      "il": "tomber_passe_compose_il",
+      "elle": "tomber_passe_compose_elle",
+      "on": "tomber_passe_compose_on",
+      "nous": "tomber_passe_compose_nous",
+      "vous": "tomber_passe_compose_vous",
+      "ils": "tomber_passe_compose_ils",
+      "elles": "tomber_passe_compose_elles"
+    },
+    "futur": {
+      "je": "tomber_futur_je",
+      "tu": "tomber_futur_tu",
+      "il": "tomber_futur_il",
+      "elle": "tomber_futur_elle",
+      "on": "tomber_futur_on",
+      "nous": "tomber_futur_nous",
+      "vous": "tomber_futur_vous",
+      "ils": "tomber_futur_ils",
+      "elles": "tomber_futur_elles"
+    }
+  },
+  "valoir": {
+    "present": {
+      "je": "valoir_present_je",
+      "tu": "valoir_present_tu",
+      "il": "valoir_present_il",
+      "elle": "valoir_present_elle",
+      "on": "valoir_present_on",
+      "nous": "valoir_present_nous",
+      "vous": "valoir_present_vous",
+      "ils": "valoir_present_ils",
+      "elles": "valoir_present_elles"
+    },
+    "passe_compose": {
+      "je": "valoir_passe_compose_je",
+      "tu": "valoir_passe_compose_tu",
+      "il": "valoir_passe_compose_il",
+      "elle": "valoir_passe_compose_elle",
+      "on": "valoir_passe_compose_on",
+      "nous": "valoir_passe_compose_nous",
+      "vous": "valoir_passe_compose_vous",
+      "ils": "valoir_passe_compose_ils",
+      "elles": "valoir_passe_compose_elles"
+    },
+    "futur": {
+      "je": "valoir_futur_je",
+      "tu": "valoir_futur_tu",
+      "il": "valoir_futur_il",
+      "elle": "valoir_futur_elle",
+      "on": "valoir_futur_on",
+      "nous": "valoir_futur_nous",
+      "vous": "valoir_futur_vous",
+      "ils": "valoir_futur_ils",
+      "elles": "valoir_futur_elles"
+    }
+  },
+  "attendre": {
+    "present": {
+      "je": "attendre_present_je",
+      "tu": "attendre_present_tu",
+      "il": "attendre_present_il",
+      "elle": "attendre_present_elle",
+      "on": "attendre_present_on",
+      "nous": "attendre_present_nous",
+      "vous": "attendre_present_vous",
+      "ils": "attendre_present_ils",
+      "elles": "attendre_present_elles"
+    },
+    "passe_compose": {
+      "je": "attendre_passe_compose_je",
+      "tu": "attendre_passe_compose_tu",
+      "il": "attendre_passe_compose_il",
+      "elle": "attendre_passe_compose_elle",
+      "on": "attendre_passe_compose_on",
+      "nous": "attendre_passe_compose_nous",
+      "vous": "attendre_passe_compose_vous",
+      "ils": "attendre_passe_compose_ils",
+      "elles": "attendre_passe_compose_elles"
+    },
+    "futur": {
+      "je": "attendre_futur_je",
+      "tu": "attendre_futur_tu",
+      "il": "attendre_futur_il",
+      "elle": "attendre_futur_elle",
+      "on": "attendre_futur_on",
+      "nous": "attendre_futur_nous",
+      "vous": "attendre_futur_vous",
+      "ils": "attendre_futur_ils",
+      "elles": "attendre_futur_elles"
+    }
+  },
+  "travailler": {
+    "present": {
+      "je": "travailler_present_je",
+      "tu": "travailler_present_tu",
+      "il": "travailler_present_il",
+      "elle": "travailler_present_elle",
+      "on": "travailler_present_on",
+      "nous": "travailler_present_nous",
+      "vous": "travailler_present_vous",
+      "ils": "travailler_present_ils",
+      "elles": "travailler_present_elles"
+    },
+    "passe_compose": {
+      "je": "travailler_passe_compose_je",
+      "tu": "travailler_passe_compose_tu",
+      "il": "travailler_passe_compose_il",
+      "elle": "travailler_passe_compose_elle",
+      "on": "travailler_passe_compose_on",
+      "nous": "travailler_passe_compose_nous",
+      "vous": "travailler_passe_compose_vous",
+      "ils": "travailler_passe_compose_ils",
+      "elles": "travailler_passe_compose_elles"
+    },
+    "futur": {
+      "je": "travailler_futur_je",
+      "tu": "travailler_futur_tu",
+      "il": "travailler_futur_il",
+      "elle": "travailler_futur_elle",
+      "on": "travailler_futur_on",
+      "nous": "travailler_futur_nous",
+      "vous": "travailler_futur_vous",
+      "ils": "travailler_futur_ils",
+      "elles": "travailler_futur_elles"
+    }
+  }
+}

@@ -3,13 +3,13 @@
 > _Code your way to better French — one verb at a time!_
 
 A Rust-based command-line quiz game designed for **English-speaking beginners 
-learning French (A1 level)**. Practice present-tense verb conjugations interactively 
+learning French (A1 level)**. Practice present, passé compose and future tense verb conjugations interactively 
 in your terminal — perfect for coders who love language learning!
 
 ---
 
 ## 🚀 Features
-- Randomized verb and subject pronoun prompts
+- Randomized verb, tense, and subject pronoun prompts
 - Real-time feedback on conjugation accuracy
 - JSON-based verb dictionary for easy expansion
 - Designed for terminal use with Rust
@@ -29,7 +29,7 @@ cargo run
 ---
 
 ## 🎯 Usage
-- The game will prompt you with a French verb and subject.
+- The game will prompt you with a French verb, tense and subject pronoun.
 - Type the correct present-tense conjugation.
 - Get instant feedback and keep practicing!
 

@@ -1,0 +1,287 @@
+{
+  "level1_key": {
+    "level2_key": {
+      "level3_key": "value"
+    }
+  },
+  "être": {
+    "present": {
+      "je": "suis",
+      "tu": "es",
+      "il": "est",
+      "elle": "est",
+      "on": "est",
+      "nous": "sommes",
+      "vous": "êtes",
+      "ils": "sont",
+      "elles": "sont"
+    },
+    "passe_compose": {
+      "je": "ai été",
+      "tu": "as été",
+      "il": "a été",
+      "elle": "a été",
+      "on": "a été",
+      "nous": "avons été",
+      "vous": "avez été",
+      "ils": "ont été",
+      "elles": "ont été"
+    },
+    "futur": {
+      "je": "serai",
+      "tu": "seras",
+      "il": "sera",
+      "elle": "sera",
+      "on": "sera",
+      "nous": "serons",
+      "vous": "serez",
+      "ils": "seront",
+      "elles": "seront"
+    }
+  },
+  "avoir": {
+    "present": {
+      "je": "ai",
+      "tu": "as",
+      "il": "a",
+      "elle": "a",
+      "on": "a",
+      "nous": "avons",
+      "vous": "avez",
+      "ils": "ont",
+      "elles": "ont"
+    },
+    "passe_compose": {
+      "je": "ai eu",
+      "tu": "as eu",
+      "il": "a eu",
+      "elle": "a eu",
+      "on": "a eu",
+      "nous": "avons eu",
+      "vous": "avez eu",
+      "ils": "ont eu",
+      "elles": "ont eu"
+    },
+    "futur": {
+      "je": "aurai",
+      "tu": "auras",
+      "il": "aura",
+      "elle": "aura",
+      "on": "aura",
+      "nous": "aurons",
+      "vous": "aurez",
+      "ils": "auront",
+      "elles": "auront"
+    }
+  },
+  "aller": {
+    "present": {
+      "je": "vais",
+      "tu": "vas",
+      "il": "va",
+      "elle": "va",
+      "on": "va",
+      "nous": "allons",
+      "vous": "allez",
+      "ils": "vont",
+      "elles": "vont"
+    },
+    "passe_compose": {
+      "je": "suis allé",
+      "tu": "es allé",
+      "il": "est allé",
+      "elle": "est allée",
+      "on": "est allé",
+      "nous": "sommes allés",
+      "vous": "êtes allés",
+      "ils": "sont allés",
+      "elles": "sont allées"
+    },
+    "futur": {
+      "je": "irai",
+      "tu": "iras",
+      "il": "ira",
+      "elle": "ira",
+      "on": "ira",
+      "nous": "irons",
+      "vous": "irez",
+      "ils": "iront",
+      "elles": "iront"
+    }
+  },
+  "faire": {
+    "present": {
+      "je": "fais",
+      "tu": "fais",
+      "il": "fait",
+      "elle": "fait",
+      "on": "fait",
+      "nous": "faisons",
+      "vous": "faites",
+      "ils": "font",
+      "elles": "font"
+    },
+    "passe_compose": {
+      "je": "ai fait",
+      "tu": "as fait",
+      "il": "a fait",
+      "elle": "a fait",
+      "on": "a fait",
+      "nous": "avons fait",
+      "vous": "avez fait",
+      "ils": "ont fait",
+      "elles": "ont fait"
+    },
+    "futur": {
+      "je": "ferai",
+      "tu": "feras",
+      "il": "fera",
+      "elle": "fera",
+      "on": "fera",
+      "nous": "ferons",
+      "vous": "ferez",
+      "ils": "feront",
+      "elles": "feront"
+    }
+  },
+  "dire": {
+    "present": {
+      "je": "dis",
+      "tu": "dis",
+      "il": "dit",
+      "elle": "dit",
+      "on": "dit",
+      "nous": "disons",
+      "vous": "dites",
+      "ils": "disent",
+      "elles": "disent"
+    },
+    "passe_compose": {
+      "je": "ai dit",
+      "tu": "as dit",
+      "il": "a dit",
+      "elle": "a dit",
+      "on": "a dit",
+      "nous": "avons dit",
+      "vous": "avez dit",
+      "ils": "ont dit",
+      "elles": "ont dit"
+    },
+    "futur": {
+      "je": "dirai",
+      "tu": "diras",
+      "il": "dira",
+      "elle": "dira",
+      "on": "dira",
+      "nous": "dirons",
+      "vous": "direz",
+      "ils": "diront",
+      "elles": "diront"
+    }
+  },
+  "pouvoir": {
+    "present": {
+      "je": "peux",
+      "tu": "peux",
+      "il": "peut",
+      "elle": "peut",
+      "on": "peut",
+      "nous": "pouvons",
+      "vous": "pouvez",
+      "ils": "peuvent",
+      "elles": "peuvent"
+    },
+    "passe_compose": {
+      "je": "ai pu",
+      "tu": "as pu",
+      "il": "a pu",
+      "elle": "a pu",
+      "on": "a pu",
+      "nous": "avons pu",
+      "vous": "avez pu",
+      "ils": "ont pu",
+      "elles": "ont pu"
+    },
+    "futur": {
+      "je": "pourrai",
+      "tu": "pourras",
+      "il": "pourra",
+      "elle": "pourra",
+      "on": "pourra",
+      "nous": "pourrons",
+      "vous": "purrez",
+      "ils": "pourront",
+      "elles": "pourront"
+    }
+  },
+  "vouloir": {
+    "present": {
+      "je": "veux",
+      "tu": "veux",
+      "il": "veut",
+      "elle": "veut",
+      "on": "veut",
+      "nous": "voulons",
+      "vous": "voulez",
+      "ils": "veulent",
+      "elles": "veulent"
+    },
+    "passe_compose": {
+      "je": "ai voulu",
+      "tu": "as voulu",
+      "il": "a voulu",
+      "elle": "a voulu",
+      "on": "a voulu",
+      "nous": "avons voulu",
+      "vous": "avez voulu",
+      "ils": "ont voulu",
+      "elles": "ont voulu"
+    },
+    "futur": {
+      "je": "voudrai",
+      "tu": "voudras",
+      "il": "voudra",
+      "elle": "voudra",
+      "on": "voudra",
+      "nous": "voudrons",
+      "vous": "voudrez",
+      "ils": "voudront",
+      "elles": "voudront"
+    }
+  },
+  "voir": {
+    "present": {
+      "je": "vois",
+      "tu": "vois",
+      "il": "voit",
+      "elle": "voit",
+      "on": "voit",
+      "nous": "voyons",
+      "vous": "voyez",
+      "ils": "volent",
+      "elles": "volent"
+    },
+    "passe_compose": {
+      "je": "ai vu",
+      "tu": "as vu",
+      "il": "a vu",
+      "elle": "a vu",
+      "on": "a vu",
+      "nous": "avons vu",
+      "vous": "avez vu",
+      "ils": "ont vu",
+      "elles": "ont vu"
+    },
+    "futur": {
+      "je": "verrai",
+      "tu": "verras",
+      "il": "verra",
+      "elle": "verra",
+      "on": "verra",
+      "nous": "verrons",
+      "vous": "verrez",
+      "ils": "verront",
+      "elles": "verront"
+    }
+  }
+}
