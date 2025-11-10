@@ -1,6 +1,6 @@
-level1_key:
-  level2_key:
-    level3_key: value
+verb_key:
+  tense_key:
+    subject_key: answer
 être:
   present:
     je: suis

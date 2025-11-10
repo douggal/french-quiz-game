@@ -14,6 +14,7 @@ in your terminal — perfect for coders who love language learning!
 - Real-time feedback on conjugation accuracy
 - YAML-based verb dictionary (`inputs/conjugations.yaml`) for easy expansion
 - Designed for terminal use with Rust
+- At the end of the game, your score is displayed as the count of correct and wrong answers.
 
 ---
 

@@ -7,6 +7,17 @@ use std::collections::HashMap;
 use std::{fs, process};
 use std::io::{self, Write};
 
+#[derive(Debug)]
+enum Answer {
+    Correct,
+    Wrong,
+    Skipped,  // planned future use
+}
+
+// Parse input file into a HashMap of HashMaps...
+// verb_key:
+//   tense_key:
+//     subject_key: answer
 #[derive(Debug, Deserialize)]
 struct VerbConjugations(HashMap<String, HashMap<String, HashMap<String, String>>>);
 
@@ -31,7 +42,7 @@ fn main() {
 
    match validate_yaml(&file_content) {
         Ok(_) => {
-            println!("Félicitations, ce YAML est correct !\n\n");
+            println!("Félicitations! Le fichier d'entrée a été lu et analysé. Le jeu est prêt!\n\n");
         }
         Err(err) => {
             print!("Échec de l'analyse du YAML (could not parse YAML).\n\n");
@@ -46,16 +57,17 @@ fn main() {
     let verbs: Vec<String> = verb_data.0.keys().cloned().collect();
     let tense = vec!["present","passe_compose","futur"];
     let subjects = vec!["je", "tu", "il", "elle", "on", "nous", "vous", "ils", "elles"];
+    let mut answers: Vec<Answer> = vec![];
 
     println!("Bienvenue au jeu de conjugaison française !");
-    println!("Tapez la conjugaison correcte du verbe donné au présent.");
+    println!("Saisissez la conjugaison correcte en fonction du temps et du sujet pronom.\n");
 
     loop {
         let verb = verbs.choose(&mut rand::rng()).unwrap();
         let tense  = tense.choose(&mut rand::rng()).unwrap();
         let subject = subjects.choose(&mut rand::rng()).unwrap();
 
-        print!("Conjuguez '{}' in the {} tense avec le sujet '{}': ", verb, tense, subject);
+        print!("Conjuguez '{}' au {} avec le sujet '{}': ", verb, tense, subject);
         io::stdout().flush().unwrap();
 
         let mut user_input = String::new();
@@ -69,9 +81,11 @@ fn main() {
         match correct_answer {
             Some(answer) if answer == user_input => {
                 println!("✅ Correct!");
+                answers.push(Answer::Correct);
             }
             Some(answer) => {
                 println!("❌ Incorrect. La bonne réponse est: '{}'", answer);
+                answers.push(Answer::Wrong);
             }
             None => {
                 println!("⚠️ Erreur: conjugaison introuvable.");
@@ -85,6 +99,17 @@ fn main() {
             break;
         }
     }
+
+    let (correct, wrong, skipped) = answers.iter().fold((0, 0, 0), |(c, w, s), a| {
+        match a {
+            Answer::Correct => (c + 1, w, s),
+            Answer::Wrong => (c, w + 1, s),
+            Answer::Skipped => (c, w, s + 1),
+        }
+    });
+
+    println!("Correct: {}, Incorrect: {}, Ignoré: {}", correct, wrong, skipped);
+
 
     println!("Merci d'avoir joué !");
 }
