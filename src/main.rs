@@ -45,14 +45,14 @@ fn main() {
             println!("Félicitations! Le fichier d'entrée a été lu et analysé. Le jeu est prêt!\n\n");
         }
         Err(err) => {
-            print!("Échec de l'analyse du YAML (could not parse YAML).\n\n");
+            print!("Échec de l'analyse du YAML (could not parse YAML) '{verbs_input_file}'.\n\n");
             eprintln!("Error: {}", err); // Print error message to stderr
             process::exit(1) // Exit with a non-zero status code
         }
    }
 
     let verb_data: VerbConjugations = serde_yaml::from_str(&file_content)
-        .expect("Échec de l'analyse du YAML (could not parse YAML)");
+        .expect("Échec de l'analyse du YAML (could not parse YAML input file)");
 
     let verbs: Vec<String> = verb_data.0.keys().cloned().collect();
     let tense = vec!["present","passe_compose","futur"];
@@ -108,8 +108,23 @@ fn main() {
         }
     });
 
-    println!("Correct: {}, Incorrect: {}, Ignoré: {}", correct, wrong, skipped);
+    if correct+wrong > 0 {
+        let score: f32 = 100.0*correct as f32 / (correct + wrong) as f32;
+        // println!("Votre score: {:.2} % ({} bonnes réponses, {} mauvaise, et {} ignoré)", score, correct, wrong, skipped);
 
+        let face = if score >= 85.0 {
+            "😊"
+        } else if score >= 70.0 {
+            "😐"
+        } else {
+            "☹️"
+        };
+
+        println!(
+            "Votre score: {:.2}% {} ({} bonnes réponses, {} mauvaise, et {} ignoré)",
+            score, face, correct, wrong, skipped
+        );
+    }
 
     println!("Merci d'avoir joué !");
 }

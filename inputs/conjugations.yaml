@@ -1,68 +1,3 @@
-verb_key:
-  tense_key:
-    subject_key: answer
-être:
-  present:
-    je: suis
-    tu: es
-    il: est
-    elle: est
-    on: est
-    nous: sommes
-    vous: êtes
-    ils: sont
-    elles: sont
-  passe_compose:
-    je: ai été
-    tu: as été
-    il: a été
-    elle: a été
-    on: a été
-    nous: avons été
-    vous: avez été
-    ils: ont été
-    elles: ont été
-  futur:
-    je: serai
-    tu: seras
-    il: sera
-    elle: sera
-    on: sera
-    nous: serons
-    vous: serez
-    ils: seront
-    elles: seront
-avoir:
-  present:
-    je: ai
-    tu: as
-    il: a
-    elle: a
-    on: a
-    nous: avons
-    vous: avez
-    ils: ont
-    elles: ont
-  passe_compose:
-    je: ai eu
-    tu: as eu
-    il: a eu
-    elle: a eu
-    on: a eu
-    nous: avons eu
-    vous: avez eu
-    ils: ont eu
-    elles: ont eu
-  futur:
-    je: aurai
-    tu: auras
-    il: aura
-    elle: aura
-    on: aura
-    nous: aurons
-    vous: aurez
-    ils: auront
-    elles: auront
 aller:
   present:
     je: vais
@@ -94,37 +29,37 @@ aller:
     vous: irez
     ils: iront
     elles: iront
-faire:
+avoir:
   present:
-    je: fais
-    tu: fais
-    il: fait
-    elle: fait
-    on: fait
-    nous: faisons
-    vous: faites
-    ils: font
-    elles: font
+    je: ai
+    tu: as
+    il: a
+    elle: a
+    on: a
+    nous: avons
+    vous: avez
+    ils: ont
+    elles: ont
   passe_compose:
-    je: ai fait
-    tu: as fait
-    il: a fait
-    elle: a fait
-    on: a fait
-    nous: avons fait
-    vous: avez fait
-    ils: ont fait
-    elles: ont fait
+    je: ai eu
+    tu: as eu
+    il: a eu
+    elle: a eu
+    on: a eu
+    nous: avons eu
+    vous: avez eu
+    ils: ont eu
+    elles: ont eu
   futur:
-    je: ferai
-    tu: feras
-    il: fera
-    elle: fera
-    on: fera
-    nous: ferons
-    vous: ferez
-    ils: feront
-    elles: feront
+    je: aurai
+    tu: auras
+    il: aura
+    elle: aura
+    on: aura
+    nous: aurons
+    vous: aurez
+    ils: auront
+    elles: auront
 dire:
   present:
     je: dis
@@ -156,6 +91,130 @@ dire:
     vous: direz
     ils: diront
     elles: diront
+être:
+  present:
+    je: suis
+    tu: es
+    il: est
+    elle: est
+    on: est
+    nous: sommes
+    vous: êtes
+    ils: sont
+    elles: sont
+  passe_compose:
+    je: ai été
+    tu: as été
+    il: a été
+    elle: a été
+    on: a été
+    nous: avons été
+    vous: avez été
+    ils: ont été
+    elles: ont été
+  futur:
+    je: serai
+    tu: seras
+    il: sera
+    elle: sera
+    on: sera
+    nous: serons
+    vous: serez
+    ils: seront
+    elles: seront
+faire:
+  present:
+    je: fais
+    tu: fais
+    il: fait
+    elle: fait
+    on: fait
+    nous: faisons
+    vous: faites
+    ils: font
+    elles: font
+  passe_compose:
+    je: ai fait
+    tu: as fait
+    il: a fait
+    elle: a fait
+    on: a fait
+    nous: avons fait
+    vous: avez fait
+    ils: ont fait
+    elles: ont fait
+  futur:
+    je: ferai
+    tu: feras
+    il: fera
+    elle: fera
+    on: fera
+    nous: ferons
+    vous: ferez
+    ils: feront
+    elles: feront
+mettre:
+  present:
+    je: mis
+    tu: mis
+    il: mit
+    elle: mit
+    on: mit
+    nous: mîmes
+    vous: mîtes
+    ils: mirent
+    elles: mirent
+  passe_compose:
+    je: ai mis
+    tu: as mis
+    il: a mis
+    elle: a mis
+    on: a mis
+    nous: avons mis
+    vous: avez mis
+    ils: ont mis
+    elles: ont mis
+  futur:
+    je: mettrai
+    tu: mettras
+    il: mettra
+    elle: mettra
+    on: mettra
+    nous: mettrons
+    vous: mettrez
+    ils: mettront
+    elles: mettront
+partir:
+  present:
+    je: pars
+    tu: pars
+    il: part
+    elle: part
+    on: part
+    nous: partons
+    vous: partez
+    ils: partent
+    elles: partent
+  passe_compose:
+    je: suis parti
+    tu: es parti
+    il: est parti
+    elle: est parti
+    on: est parti
+    nous: sommes parti
+    vous: êtes parti
+    ils: sont parti
+    elles: sont parti
+  futur:
+    je: partirai
+    tu: partiras
+    il: partira
+    elle: partira
+    on: partira
+    nous: partirons
+    vous: partirez
+    ils: partiront
+    elles: partiront
 pouvoir:
   present:
     je: peux
@@ -187,37 +246,99 @@ pouvoir:
     vous: purrez
     ils: pourront
     elles: pourront
-vouloir:
+prendre:
   present:
-    je: veux
-    tu: veux
-    il: veut
-    elle: veut
-    on: veut
-    nous: voulons
-    vous: voulez
-    ils: veulent
-    elles: veulent
+    je: prends
+    tu: prends
+    il: prend
+    elle: prend
+    on: prend
+    nous: prenons
+    vous: prenez
+    ils: prennent
+    elles: prennent
   passe_compose:
-    je: ai voulu
-    tu: as voulu
-    il: a voulu
-    elle: a voulu
-    on: a voulu
-    nous: avons voulu
-    vous: avez voulu
-    ils: ont voulu
-    elles: ont voulu
+    je: ai pris
+    tu: as pris
+    il: a pris
+    elle: a pris
+    on: a pris
+    nous: avons pris
+    vous: avez pris
+    ils: ont pris
+    elles: ont pris
   futur:
-    je: voudrai
-    tu: voudras
-    il: voudra
-    elle: voudra
-    on: voudra
-    nous: voudrons
-    vous: voudrez
-    ils: voudront
-    elles: voudront
+    je: prendrai
+    tu: prendras
+    il: prendra
+    elle: prendra
+    on: prendra
+    nous: prendrons
+    vous: prendrez
+    ils: prendront
+    elles: prendront
+sortir:
+  present:
+    je: sors
+    tu: sors
+    il: sort
+    elle: sort
+    on: sort
+    nous: sortons
+    vous: sortez
+    ils: sortent
+    elles: sortent
+  passe_compose:
+    je: suis sorti
+    tu: es sorti
+    il: est sortie
+    elle: est sortie
+    on: est sortie
+    nous: sommes sortis
+    vous: êtes sortis
+    ils: sont sortis
+    elles: sont sorties
+  futur:
+    je: partirai
+    tu: partiras
+    il: partira
+    elle: partira
+    on: partira
+    nous: partirons
+    vous: partirez
+    ils: partiront
+    elles: partiront
+venir:
+  present:
+    je: viens
+    tu: viens
+    il: vient
+    elle: vient
+    on: vient
+    nous: venons
+    vous: venez
+    ils: viennent
+    elles: viennent
+  passe_compose:
+    je: suis venu
+    tu: es venu
+    il: est venu
+    elle: est venu
+    on: est venu
+    nous: sommes venus
+    vous: êtes venus
+    ils: sont venus
+    elles: sont venus
+  futur:
+    je: viendrai
+    tu: viendras
+    il: viendra
+    elle: viendra
+    on: viendra
+    nous: viendrons
+    vous: viendrez
+    ils: viendront
+    elles: viendront
 voir:
   present:
     je: vois
@@ -249,3 +370,34 @@ voir:
     vous: verrez
     ils: verront
     elles: verront
+vouloir:
+  present:
+    je: veux
+    tu: veux
+    il: veut
+    elle: veut
+    on: veut
+    nous: voulons
+    vous: voulez
+    ils: veulent
+    elles: veulent
+  passe_compose:
+    je: ai voulu
+    tu: as voulu
+    il: a voulu
+    elle: a voulu
+    on: a voulu
+    nous: avons voulu
+    vous: avez voulu
+    ils: ont voulu
+    elles: ont voulu
+  futur:
+    je: voudrai
+    tu: voudras
+    il: voudra
+    elle: voudra
+    on: voudra
+    nous: voudrons
+    vous: voudrez
+    ils: voudront
+    elles: voudront
