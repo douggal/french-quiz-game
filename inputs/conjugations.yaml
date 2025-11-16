@@ -184,6 +184,37 @@ mettre:
     vous: mettrez
     ils: mettront
     elles: mettront
+ouvrir:
+  present:
+    je: ouvre
+    tu: ouvres
+    il: ouvre
+    elle: ouvre
+    on: ouvre
+    nous: ouvrons
+    vous: ourvrez
+    ils: ouvrent
+    elles: ouvrent
+  passe_compose:
+    je: ai ouvert
+    tu: as ouvert
+    il: a ouvert
+    elle: a ouvert
+    on: a ouvert
+    nous: avons ouvert
+    vous: avez ouvert
+    ils: ont ouvert
+    elles: ont ouvert
+  futur:
+    je: ouvrirai
+    tu: ouvriras
+    il: ouvrira
+    elle: ourvrira
+    on: ouvrira
+    nous: ouvrirons
+    vous: ouvrirez
+    ils: ouvriront
+    elles: ourvriront
 partir:
   present:
     je: pars
@@ -299,15 +330,15 @@ sortir:
     ils: sont sortis
     elles: sont sorties
   futur:
-    je: partirai
-    tu: partiras
-    il: partira
-    elle: partira
-    on: partira
-    nous: partirons
-    vous: partirez
-    ils: partiront
-    elles: partiront
+    je: sortirai
+    tu: sortiras
+    il: sortira
+    elle: sortira
+    on: sortira
+    nous: sortirons
+    vous: sortirez
+    ils: sortiront
+    elles: sortiront
 venir:
   present:
     je: viens
