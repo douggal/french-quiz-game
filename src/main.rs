@@ -16,10 +16,39 @@ enum Answer {
 
 // Parse input file into a HashMap of HashMaps...
 // verb_key:
+//   actif: oui|non
 //   tense_key:
 //     subject_key: answer
 #[derive(Debug, Deserialize)]
-struct VerbConjugations(HashMap<String, HashMap<String, HashMap<String, String>>>);
+struct VerbConjugations(HashMap<String, VerbEntry>);
+
+#[derive(Debug, Deserialize)]
+struct VerbEntry {
+    #[serde(default)]
+    actif: Option<String>,
+    present: HashMap<String, String>,
+    passe_compose: HashMap<String, String>,
+    futur: HashMap<String, String>,
+}
+
+impl VerbEntry {
+    fn is_active(&self) -> bool {
+        self.actif
+            .as_deref()
+            .map(|value| value.trim().eq_ignore_ascii_case("oui"))
+            .unwrap_or(false)
+    }
+
+    fn conjugation_for(&self, tense: &str, subject: &str) -> Option<&String> {
+        let tense_map = match tense {
+            "present" => &self.present,
+            "passe_compose" => &self.passe_compose,
+            "futur" => &self.futur,
+            _ => return None,
+        };
+        tense_map.get(subject)
+    }
+}
 
 fn validate_yaml(yaml_str: &str) -> Result<Value, serde_yaml::Error> {
     serde_yaml::from_str(yaml_str)
@@ -54,7 +83,16 @@ fn main() {
     let verb_data: VerbConjugations = serde_yaml::from_str(&file_content)
         .expect("Échec de l'analyse du YAML (could not parse YAML input file)");
 
-    let verbs: Vec<String> = verb_data.0.keys().cloned().collect();
+    let verbs: Vec<String> = verb_data
+        .0
+        .iter()
+        .filter_map(|(verb, entry)| entry.is_active().then(|| verb.clone()))
+        .collect();
+
+    if verbs.is_empty() {
+        eprintln!("Aucun verbe actif trouve dans le fichier YAML. Marquez au moins un verbe avec actif: oui.");
+        process::exit(1);
+    }
     let tense = vec!["present","passe_compose","futur"];
     let subjects = vec!["je", "tu", "il", "elle", "on", "nous", "vous", "ils", "elles"];
     let mut answers: Vec<Answer> = vec![];
@@ -74,9 +112,10 @@ fn main() {
         io::stdin().read_line(&mut user_input).unwrap();
         let user_input = user_input.trim();
 
-        let correct_answer = verb_data.0.get(verb)
-            .and_then(|v| v.get(*tense)
-            .and_then(|v| v.get(*subject)));
+        let correct_answer = verb_data
+            .0
+            .get(verb)
+            .and_then(|entry| entry.conjugation_for(tense, subject));
 
         match correct_answer {
             Some(answer) if answer == user_input => {

@@ -1,4 +1,5 @@
 aller:
+  actif: oui
   present:
     je: vais
     tu: vas
@@ -30,6 +31,7 @@ aller:
     ils: iront
     elles: iront
 avoir:
+  actif: oui
   present:
     je: ai
     tu: as
@@ -61,6 +63,7 @@ avoir:
     ils: auront
     elles: auront
 dire:
+  actif: non
   present:
     je: dis
     tu: dis
@@ -92,6 +95,7 @@ dire:
     ils: diront
     elles: diront
 être:
+  actif: oui
   present:
     je: suis
     tu: es
@@ -123,6 +127,7 @@ dire:
     ils: seront
     elles: seront
 faire:
+  actif: non
   present:
     je: fais
     tu: fais
@@ -154,6 +159,7 @@ faire:
     ils: feront
     elles: feront
 mettre:
+  actif: non
   present:
     je: mis
     tu: mis
@@ -185,6 +191,7 @@ mettre:
     ils: mettront
     elles: mettront
 ouvrir:
+  actif: non
   present:
     je: ouvre
     tu: ouvres
@@ -216,6 +223,7 @@ ouvrir:
     ils: ouvriront
     elles: ourvriront
 partir:
+  actif: non
   present:
     je: pars
     tu: pars
@@ -247,6 +255,7 @@ partir:
     ils: partiront
     elles: partiront
 pouvoir:
+  actif: non
   present:
     je: peux
     tu: peux
@@ -278,6 +287,7 @@ pouvoir:
     ils: pourront
     elles: pourront
 prendre:
+  actif: non
   present:
     je: prends
     tu: prends
@@ -309,6 +319,7 @@ prendre:
     ils: prendront
     elles: prendront
 sortir:
+  actif: non
   present:
     je: sors
     tu: sors
@@ -340,6 +351,7 @@ sortir:
     ils: sortiront
     elles: sortiront
 venir:
+  actif: non
   present:
     je: viens
     tu: viens
@@ -371,6 +383,7 @@ venir:
     ils: viendront
     elles: viendront
 voir:
+  actif: non
   present:
     je: vois
     tu: vois
@@ -402,6 +415,7 @@ voir:
     ils: verront
     elles: verront
 vouloir:
+  actif: non
   present:
     je: veux
     tu: veux
